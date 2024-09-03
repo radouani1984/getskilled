@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="eb8e95d0-d03e-4fc1-a784-1496e92bed51" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/getskilled/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/getskilled/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725395797854</updated>
-      <workItem from="1725395800441" duration="991000" />
+      <workItem from="1725395800441" duration="1492000" />
     </task>
     <servers />
   </component>
